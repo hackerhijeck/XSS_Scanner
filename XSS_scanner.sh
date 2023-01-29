@@ -12,11 +12,11 @@ random_quote=${quotes[$RANDOM % ${#quotes[@]}]}
 # Print the quote
 echo "Offensive security tip: $random_quote - hackerhijeck" | lolcat
 sleep 1
-figlet "HACK THE PLANET!" | lolcat
+figlet "XSS SCANNER!" | lolcat
 sleep 1
 echo "MEANS, IT'S ⚡ 1337 ⚡ TIME, 369 ⚡ " | lolcat
 sleep 1
-echo "[YOU ARE USING XSS Scanner] - (v1.0) ❤ RECODED BY hackerhijeck (Original by blackhatethicalhacking)" | lolcat
+echo "[YOU ARE USING XSS Scanner] - (v1.0) ❤ RECODED BY hackerhijeck (Original by bheh)" | lolcat
 sleep 1
 #check if the user is connected to the internet
 tput bold;echo "CHECKING YOUR INTERNET CONNECTION ! PLEASE HOLD ON !" | lolcat
