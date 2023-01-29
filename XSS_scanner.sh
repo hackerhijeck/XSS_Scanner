@@ -16,7 +16,7 @@ figlet "XSS SCANNER!" | lolcat
 sleep 1
 echo "MEANS, IT'S ⚡ 1337 ⚡ TIME, 369 ⚡ " | lolcat
 sleep 1
-echo "[YOU ARE USING XSS Scanner] - (v1.0) ❤ RECODED BY hackerhijeck" | lolcat
+echo "[YOU ARE USING XSS Scanner] - (v1.0) ❤ Developed by hackerhijeck" | lolcat
 sleep 1
 #check if the user is connected to the internet
 tput bold;echo "CHECKING YOUR INTERNET CONNECTION ! PLEASE HOLD ON !" | lolcat
