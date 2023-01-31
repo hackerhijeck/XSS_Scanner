@@ -66,7 +66,7 @@ fi
 
 # Use a remote XSS payload list from github
 payload_file="xss-payloads.txt"
-payload_url="https://raw.githubusercontent.com/mohan-byte/xsspayload/main/xsshunter.txt"
+payload_url="https://raw.githubusercontent.com/hackerhijeck/XSS_Scanner/main/xss-payloads.txt"
 if test ! -f "$payload_file"; then
     echo "Downloading Default Payload list from: $payload_url" | lolcat
     if ! wget $payload_url -O $payload_file; then
